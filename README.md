@@ -1,6 +1,6 @@
 Pastelaria do Godofredo
 
 
-teste
-
-// npm init
+// npm install
+// npm i express cors body-parser
+// npm i nodemon
